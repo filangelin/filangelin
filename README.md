@@ -19,7 +19,7 @@
  </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filangelin)](https://github.com/anuraghazra/github-readme-stats)
-          
+
 ![Profile_views](https://komarev.com/ghpvc/?username=filangelin&color=ff69b4&style=for-the-badge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=filangelin)](https://github.com/ryo-ma/github-profile-trophy)
