@@ -18,3 +18,4 @@
  </p>
           
 ![Profile_views](https://komarev.com/ghpvc/?username=filangelin&color=ff69b4&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
