@@ -1,7 +1,8 @@
 <h2 align="center">Приветствую👋 Меня зовут Ангелина.</h2>
 
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=QA+Engineer;Manual+and+Automation)](https://git.io/typing-svg)
+</div>
 
 
 
