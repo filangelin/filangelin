@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=QA+Engineer;Manual+and+Automation&vcenter=false)](https://git.io/typing-svg)
 
 - 💻 Stack - **Python+Playwright**
-- 🎓 Высшее техническое образование с красным дипломом
-- 📘 Постоянно изучаю что-то новое в сфере IT
+- 🎓 Высшее __техническое__ образование с красным дипломом
+- 📘 *Постоянно изучаю что-то новое в сфере IT*
 - 💬 Связаться мо мной: [Telegram.](https://t.me/angelin_n)
 
 ### Я умею
@@ -17,7 +17,6 @@
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="40" height="40"/>
  <img  align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/>                
  </p>
-
 
 
 ![Profile_views](https://komarev.com/ghpvc/?username=filangelin&color=ff69b4&style=for-the-badge)
