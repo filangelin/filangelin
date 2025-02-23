@@ -1,13 +1,13 @@
-<!-- <h2 align="center">Приветствую👋 Меня зовут Ангелина.</h2>
+<h2 align="center">Приветствую👋 Меня зовут Ангелина.</h2>
 
-
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=QA+Engineer;Manual+and+Automation&vcenter=false)](https://git.io/typing-svg)
 
 - 💻 Stack - **Python+Playwright**
 - 🎓 Высшее __техническое__ образование с красным дипломом
 - 📘 *Постоянно изучаю что-то новое в сфере IT*
 - 💬 Связаться мо мной: [Telegram.](https://t.me/angelin_n)
-
+-->
 ### Я умею
 <p align="left">
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
